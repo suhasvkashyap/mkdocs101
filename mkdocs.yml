@@ -1,5 +1,5 @@
 # Project information
-site_name: Test 101
+site_name: Mkdocs 101
 site_url: https://github.io/mkdocs101
 site_author: Suhas
 
@@ -14,4 +14,3 @@ nav:
     - About the workshop: README.md
   - Workshop:
     - Folder1. Test Folder: Folder1/README.md
-
