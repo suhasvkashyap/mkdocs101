@@ -1,0 +1,17 @@
+# Project information
+site_name: Test 101
+site_url: https://github.io/mkdocs101
+site_author: Suhas
+
+# Repository
+repo_name: mkdocs101
+repo_url: https://github.com/suhasvkashyap/mkdocs101
+edit_uri: edit/master/docs
+
+# Navigation
+nav:
+  - Welcome:
+    - About the workshop: README.md
+  - Workshop:
+    - Folder1. Test Folder: Folder1/README.md
+
